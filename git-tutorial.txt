@@ -1,7 +1,5 @@
 Welcome to new students
 hola
-<<<<<<< HEAD
+
 This is the new line
-=======
-vvvvvvvv
->>>>>>> newbranch
+
